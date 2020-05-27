@@ -1,0 +1,192 @@
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Search Bar Validation, DOM Id: //div[@id="DIV__colxlcollg__40"],//i[@class="header-icon_search_custom"]//parent::button[@type="submit"], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 2 , Test Name: V1 | Task 2 | Traditional | Filter Results Page Validations Validation, DOM Id: , Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Product Grid | Add To Buttons Validation, DOM Id: //ul[contains(@id,"UL____22")], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Tools Buttons Validation, DOM Id: //ul[@id="UL__toptools__46"],//ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Header Validation, DOM Id: //nav[@id="NAV__colxlcollg__10"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="HOME"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="MEN"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="WOMEN"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="RUNNING"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="TRAINING"], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Contacts Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Contacts")],//div[@id="collapse_3"]//a[contains(text(),"srd@applitools.com")],//div[@id="collapse_3"]//i[@class="ti-home"]//parent::li, Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Brand Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Contacts Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Contacts")],//div[@id="collapse_3"]//a[contains(text(),"srd@applitools.com")],//div[@id="collapse_3"]//i[@class="ti-home"]//parent::li, Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Contacts Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Contacts")],//div[@id="collapse_3"]//a[contains(text(),"srd@applitools.com")],//div[@id="collapse_3"]//i[@class="ti-home"]//parent::li, Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Tools Buttons Validation, DOM Id: //ul[@id="UL__toptools__46"],//ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Header Validation, DOM Id: //nav[@id="NAV__colxlcollg__10"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="HOME"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="MEN"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="WOMEN"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="RUNNING"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="TRAINING"], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Sort Bar Buttons Validation, DOM Id: //ul[contains(@id,"UL__clearfix__19")]//div[@class="sort_select"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-grid"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-list"],//ul[contains(@id,"UL__clearfix__19")]//i[@id="ti-filter"],//ul[contains(@id,"UL__clearfix__19")]//span[contains(text(),"Filters")], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Header Validation, DOM Id: //nav[@id="NAV__colxlcollg__10"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="HOME"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="MEN"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="WOMEN"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="RUNNING"],//div[@id="header_menu"]//parent::div//ul//li //a[text()="TRAINING"], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Product Grid | Add To Buttons Validation, DOM Id: //ul[contains(@id,"UL____22")], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Tools Buttons Validation, DOM Id: //ul[@id="UL__toptools__46"],//ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Sort Bar Buttons Validation, DOM Id: //ul[contains(@id,"UL__clearfix__19")]//div[@class="sort_select"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-grid"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-list"],//ul[contains(@id,"UL__clearfix__19")]//i[@id="ti-filter"],//ul[contains(@id,"UL__clearfix__19")]//span[contains(text(),"Filters")], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Header Validation, DOM Id: //nav[@id="NAV__colxlcollg__10"], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Brand Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"brand")],//div[@id="sidebar_filters"]//label[contains(text(),"Adibas")],//div[@id="sidebar_filters"]//label[contains(text(),"Mykey")],//div[@id="sidebar_filters"]//label[contains(text(),"Bans")],//div[@id="sidebar_filters"]//label[contains(text(),"Over Armour")],//div[@id="sidebar_filters"]//label[contains(text(),"ImBalance")], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 3 , Test Name: V1 | Task 3 | Traditional | Product Details Page Validation, DOM Id: //ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"],//a[@id="A__btn__114"],//h1[@id="shoe_name" and (text()="Appli Air x Night")],//div[@id="shoe_img"],//span[@id="SPAN__rating__76"],//p[@id="P____83"],//small[@id="SMALL____84" and (text()="SKU: MTKRY-001")],//span[@id="discount" and (text()="-30% discount")],//span[@id="new_price" and (text()="$33.00")],//span[@id="old_price" and (text()="$48.00")],//div[@id="DIV__colxlcollg__91"]//span[text()="Small (S)"],//strong[@id="STRONG____90" and (text()="Size")],//div[@id="DIV__colxlcollg__101"]//input[@value="1"],//strong[@id="STRONG____100" and (text()="Quantity")], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 3 , Test Name: V1 | Task 3 | Traditional | Product Details Page Validation, DOM Id: //ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"],//a[@id="A__btn__114"],//h1[@id="shoe_name" and (text()="Appli Air x Night")],//div[@id="shoe_img"],//span[@id="SPAN__rating__76"],//p[@id="P____83"],//small[@id="SMALL____84" and (text()="SKU: MTKRY-001")],//span[@id="discount" and (text()="-30% discount")],//span[@id="new_price" and (text()="$33.00")],//span[@id="old_price" and (text()="$48.00")],//div[@id="DIV__colxlcollg__91"]//span[text()="Small (S)"],//strong[@id="STRONG____90" and (text()="Size")],//div[@id="DIV__colxlcollg__101"]//input[@value="1"],//strong[@id="STRONG____100" and (text()="Quantity")], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Keep In Touch Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Keep in touch")],//input[@placeholder="Your email"],//i[contains(@class,"double-right")]//parent::button, Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 3 , Test Name: V1 | Task 3 | Traditional | Product Details Page Validation, DOM Id: //ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"],//a[@id="A__btn__114"],//h1[@id="shoe_name" and (text()="Appli Air x Night")],//div[@id="shoe_img"],//span[@id="SPAN__rating__76"],//p[@id="P____83"],//small[@id="SMALL____84" and (text()="SKU: MTKRY-001")],//span[@id="discount" and (text()="-30% discount")],//span[@id="new_price" and (text()="$33.00")],//span[@id="old_price" and (text()="$48.00")],//div[@id="DIV__colxlcollg__91"]//span[text()="Small (S)"],//strong[@id="STRONG____90" and (text()="Size")],//div[@id="DIV__colxlcollg__101"]//input[@value="1"],//strong[@id="STRONG____100" and (text()="Quantity")], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Keep In Touch Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Keep in touch")],//input[@placeholder="Your email"],//i[contains(@class,"double-right")]//parent::button, Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Color Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Keep In Touch Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Keep in touch")],//input[@placeholder="Your email"],//i[contains(@class,"double-right")]//parent::button, Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Contacts Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Contacts")],//div[@id="collapse_3"]//a[contains(text(),"srd@applitools.com")],//div[@id="collapse_3"]//i[@class="ti-home"]//parent::li, Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Color Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"color")],//div[@id="sidebar_filters"]//label[contains(text(),"Black")],//div[@id="sidebar_filters"]//label[contains(text(),"White")],//div[@id="sidebar_filters"]//label[contains(text(),"Blue")],//div[@id="sidebar_filters"]//label[contains(text(),"Green")],//div[@id="sidebar_filters"]//label[contains(text(),"Yellow")], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Quick Links Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Quick Links")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"About us")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Faq")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Help")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"My account")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Blog")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Contacts")], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Quick Links Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Quick Links")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"About us")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Faq")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Help")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"My account")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Blog")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Contacts")], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Quick Links Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Quick Links")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"About us")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Faq")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Help")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"My account")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Blog")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Contacts")], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Keep In Touch Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Keep in touch")],//input[@placeholder="Your email"],//i[contains(@class,"double-right")]//parent::button, Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"price")],//div[@id="sidebar_filters"]//label[contains(text(),"$0 - $50")],//div[@id="sidebar_filters"]//label[contains(text(),"$50 - $100")],//div[@id="sidebar_filters"]//label[contains(text(),"$100 - $150")],//div[@id="sidebar_filters"]//label[contains(text(),"$150 - $500")],//button[@id="filterBtn"],//button[@id="resetBtn"], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Quick Links Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Quick Links")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"About us")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Faq")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Help")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"My account")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Blog")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Contacts")], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"type")],//div[@id="sidebar_filters"]//label[contains(text(),"Soccer")],//div[@id="sidebar_filters"]//label[contains(text(),"Basketball")],//div[@id="sidebar_filters"]//label[contains(text(),"Running")],//div[@id="sidebar_filters"]//label[contains(text(),"Training")], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 2 , Test Name: V1 | Task 2 | Traditional | Filter Results Page Validations Validation, DOM Id: , Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Sort Bar Buttons Validation, DOM Id: //ul[contains(@id,"UL__clearfix__19")]//div[@class="sort_select"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-grid"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-list"],//ul[contains(@id,"UL__clearfix__19")]//i[@id="ti-filter"],//ul[contains(@id,"UL__clearfix__19")]//span[contains(text(),"Filters")], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Brand Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Search Bar Validation, DOM Id: //div[@id="DIV__colxlcollg__40"],//i[@class="header-icon_search_custom"]//parent::button[@type="submit"], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Color Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 2 , Test Name: V1 | Task 2 | Traditional | Filter Results Page Validations Validation, DOM Id: , Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Product Grid | Add To Buttons Validation, DOM Id: //ul[contains(@id,"UL____22")], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Search Bar Validation, DOM Id: //div[@id="DIV__colxlcollg__40"],//i[@class="header-icon_search_custom"]//parent::button[@type="submit"], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Header Validation, DOM Id: //nav[@id="NAV__colxlcollg__10"], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 2 , Test Name: V1 | Task 2 | Traditional | Filter Results Page Validations Validation, DOM Id: , Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Search Bar Validation, DOM Id: //div[@id="DIV__colxlcollg__40"],//i[@class="header-icon_search_custom"]//parent::button[@type="submit"], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Contacts Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Contacts")],//div[@id="collapse_3"]//a[contains(text(),"srd@applitools.com")],//div[@id="collapse_3"]//i[@class="ti-home"]//parent::li, Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Tools Buttons Validation, DOM Id: //ul[@id="UL__toptools__46"],//ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Brand Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 3 , Test Name: V1 | Task 3 | Traditional | Product Details Page Validation, DOM Id: //ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"],//a[@id="A__btn__114"],//h1[@id="shoe_name" and (text()="Appli Air x Night")],//div[@id="shoe_img"],//span[@id="SPAN__rating__76"],//p[@id="P____83"],//small[@id="SMALL____84" and (text()="SKU: MTKRY-001")],//span[@id="discount" and (text()="-30% discount")],//span[@id="new_price" and (text()="$33.00")],//span[@id="old_price" and (text()="$48.00")],//div[@id="DIV__colxlcollg__91"]//span[text()="Small (S)"],//strong[@id="STRONG____90" and (text()="Size")],//div[@id="DIV__colxlcollg__101"]//input[@value="1"],//strong[@id="STRONG____100" and (text()="Quantity")], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V2 | Task 1 | Traditional | Filters | Brand Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Keep In Touch Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Keep in touch")],//input[@placeholder="Your email"],//i[contains(@class,"double-right")]//parent::button, Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Color Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Quick Links Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Quick Links")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"About us")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Faq")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Help")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"My account")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Blog")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Contacts")], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Brand Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: safari, Viewport: 375x635, Device: Mobile, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Product Grid | Add To Buttons Validation, DOM Id: , Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Search Bar Validation, DOM Id: //div[@id="DIV__colxlcollg__40"],//i[@class="header-icon_search_custom"]//parent::button[@type="submit"], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Sort Bar Buttons Validation, DOM Id: //ul[contains(@id,"UL__clearfix__19")]//div[@class="sort_select"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-grid"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-list"],//ul[contains(@id,"UL__clearfix__19")]//i[@id="ti-filter"],//ul[contains(@id,"UL__clearfix__19")]//span[contains(text(),"Filters")], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Color Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: safari, Viewport: 375x635, Device: Mobile, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Product Grid | Add To Buttons Validation, DOM Id: , Browser: safari, Viewport: 375x635, Device: Mobile, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: safari, Viewport: 375x635, Device: Mobile, Status: Fail
+
+ Task 3 , Test Name: V1 | Task 3 | Traditional | Product Details Page Validation, DOM Id: //ul[@id="UL__toptools__46"]//a[@class="access_link"], Browser: safari, Viewport: 375x635, Device: Mobile, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Sort Bar Buttons Validation, DOM Id: //ul[contains(@id,"UL__clearfix__19")]//div[@class="sort_select"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-grid"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-list"],//ul[contains(@id,"UL__clearfix__19")]//span[contains(text(),"Filters")],//ul[contains(@id,"UL__clearfix__19")]//i[@id="ti-filter"], Browser: safari, Viewport: 375x635, Device: Mobile, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Contacts Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Contacts")],//div[@id="collapse_3"]//a[contains(text(),"srd@applitools.com")],//div[@id="collapse_3"]//i[@class="ti-home"]//parent::li, Browser: safari, Viewport: 375x635, Device: Mobile, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"], Browser: safari, Viewport: 375x635, Device: Mobile, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Tools Buttons Validation, DOM Id: //ul[@id="UL__toptools__46"],//ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 2 , Test Name: V1 | Task 2 | Traditional | Filter Results Page Validations Validation, DOM Id: , Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Brand Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"brand")],//div[@id="sidebar_filters"]//label[contains(text(),"Adibas")],//div[@id="sidebar_filters"]//label[contains(text(),"Mykey")],//div[@id="sidebar_filters"]//label[contains(text(),"Bans")],//div[@id="sidebar_filters"]//label[contains(text(),"Over Armour")],//div[@id="sidebar_filters"]//label[contains(text(),"ImBalance")], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Keep In Touch Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Keep in touch")],//input[@placeholder="Your email"],//i[contains(@class,"double-right")]//parent::button, Browser: safari, Viewport: 375x635, Device: Mobile, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Sort Bar Buttons Validation, DOM Id: //ul[contains(@id,"UL__clearfix__19")]//div[@class="sort_select"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-grid"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-list"],//ul[contains(@id,"UL__clearfix__19")]//i[@id="ti-filter"],//ul[contains(@id,"UL__clearfix__19")]//span[contains(text(),"Filters")], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Contacts Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Contacts")],//div[@id="collapse_3"]//a[contains(text(),"srd@applitools.com")],//div[@id="collapse_3"]//i[@class="ti-home"]//parent::li, Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Brand Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"brand")],//div[@id="sidebar_filters"]//label[contains(text(),"Adibas")],//div[@id="sidebar_filters"]//label[contains(text(),"Mykey")],//div[@id="sidebar_filters"]//label[contains(text(),"Bans")],//div[@id="sidebar_filters"]//label[contains(text(),"Over Armour")],//div[@id="sidebar_filters"]//label[contains(text(),"ImBalance")], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 3 , Test Name: V1 | Task 3 | Traditional | Product Details Page Validation, DOM Id: //ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"],//a[@id="A__btn__114"],//h1[@id="shoe_name" and (text()="Appli Air x Night")],//div[@id="shoe_img"],//span[@id="SPAN__rating__76"],//p[@id="P____83"],//small[@id="SMALL____84" and (text()="SKU: MTKRY-001")],//span[@id="discount" and (text()="-30% discount")],//span[@id="new_price" and (text()="$33.00")],//span[@id="old_price" and (text()="$48.00")],//div[@id="DIV__colxlcollg__91"]//span[text()="Small (S)"],//strong[@id="STRONG____90" and (text()="Size")],//div[@id="DIV__colxlcollg__101"]//input[@value="1"],//strong[@id="STRONG____100" and (text()="Quantity")], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Keep In Touch Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Keep in touch")],//input[@placeholder="Your email"],//i[contains(@class,"double-right")]//parent::button, Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Color Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"color")],//div[@id="sidebar_filters"]//label[contains(text(),"Black")],//div[@id="sidebar_filters"]//label[contains(text(),"White")],//div[@id="sidebar_filters"]//label[contains(text(),"Blue")],//div[@id="sidebar_filters"]//label[contains(text(),"Green")],//div[@id="sidebar_filters"]//label[contains(text(),"Yellow")], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Quick Links Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Quick Links")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"About us")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Faq")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Help")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"My account")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Blog")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Contacts")], Browser: safari, Viewport: 375x635, Device: Mobile, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Color Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"color")],//div[@id="sidebar_filters"]//label[contains(text(),"Black")],//div[@id="sidebar_filters"]//label[contains(text(),"White")],//div[@id="sidebar_filters"]//label[contains(text(),"Blue")],//div[@id="sidebar_filters"]//label[contains(text(),"Green")],//div[@id="sidebar_filters"]//label[contains(text(),"Yellow")], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Footer | Quick Links Elements Validation, DOM Id: //h3[contains(@id,"H3") and (text()="Quick Links")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"About us")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Faq")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Help")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"My account")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Blog")],//div[contains(@id,"DIV__collgcolmd__42")]//a[contains(text(),"Contacts")], Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"price")],//div[@id="sidebar_filters"]//label[contains(text(),"$0 - $50")],//div[@id="sidebar_filters"]//label[contains(text(),"$50 - $100")],//div[@id="sidebar_filters"]//label[contains(text(),"$100 - $150")],//div[@id="sidebar_filters"]//label[contains(text(),"$150 - $500")],//button[@id="filterBtn"],//button[@id="resetBtn"], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"price")],//div[@id="sidebar_filters"]//label[contains(text(),"$0 - $50")],//div[@id="sidebar_filters"]//label[contains(text(),"$50 - $100")],//div[@id="sidebar_filters"]//label[contains(text(),"$100 - $150")],//div[@id="sidebar_filters"]//label[contains(text(),"$150 - $500")],//button[@id="filterBtn"],//button[@id="resetBtn"], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Product Grid | Add To Buttons Validation, DOM Id: , Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 2 , Test Name: V1 | Task 2 | Traditional | Filter Results Page Validations Validation, DOM Id: , Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Search Bar Validation, DOM Id: //div[@id="DIV__colxlcollg__40"],//i[@class="header-icon_search_custom"]//parent::button[@type="submit"], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Sort Bar Buttons Validation, DOM Id: //ul[contains(@id,"UL__clearfix__19")]//div[@class="sort_select"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-grid"],//ul[contains(@id,"UL__clearfix__19")]//i[@class="ti-view-list"],//ul[contains(@id,"UL__clearfix__19")]//i[@id="ti-filter"],//ul[contains(@id,"UL__clearfix__19")]//span[contains(text(),"Filters")], Browser: msedge, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Tools Buttons Validation, DOM Id: //ul[@id="UL__toptools__46"],//ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Product Grid | Add To Buttons Validation, DOM Id: , Browser: firefox, Viewport: 816x616, Device: Tablet, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Header Validation, DOM Id: //nav[@id="NAV__colxlcollg__10"], Browser: chrome, Viewport: 816x616, Device: Tablet, Status: Fail
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"type")],//div[@id="sidebar_filters"]//label[contains(text(),"Soccer")],//div[@id="sidebar_filters"]//label[contains(text(),"Basketball")],//div[@id="sidebar_filters"]//label[contains(text(),"Running")],//div[@id="sidebar_filters"]//label[contains(text(),"Training")], Browser: chrome, Viewport: 1024x745, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Filters | Price Elements Validation, DOM Id: //aside[@id="ASIDE__collg__67"],//div[@id="sidebar_filters"]//a[contains(text(),"type")],//div[@id="sidebar_filters"]//label[contains(text(),"Soccer")],//div[@id="sidebar_filters"]//label[contains(text(),"Basketball")],//div[@id="sidebar_filters"]//label[contains(text(),"Running")],//div[@id="sidebar_filters"]//label[contains(text(),"Training")], Browser: firefox, Viewport: 1024x741, Device: Laptop, Status: Pass
+
+ Task 3 , Test Name: V1 | Task 3 | Traditional | Product Details Page Validation, DOM Id: //ul[@id="UL__toptools__46"]//a[@class="access_link"],//ul[@id="UL__toptools__46"]//a[@class="cart_bt"],//ul[@id="UL__toptools__46"]//a[@class="wishlist"],//a[@id="A__btn__114"],//h1[@id="shoe_name" and (text()="Appli Air x Night")],//div[@id="shoe_img"],//span[@id="SPAN__rating__76"],//p[@id="P____83"],//small[@id="SMALL____84" and (text()="SKU: MTKRY-001")],//span[@id="discount" and (text()="-30% discount")],//span[@id="new_price" and (text()="$33.00")],//span[@id="old_price" and (text()="$48.00")],//div[@id="DIV__colxlcollg__91"]//span[text()="Small (S)"],//strong[@id="STRONG____90" and (text()="Size")],//div[@id="DIV__colxlcollg__101"]//input[@value="1"],//strong[@id="STRONG____100" and (text()="Quantity")], Browser: msedge, Viewport: 1040x784, Device: Laptop, Status: Pass
+
+ Task 1 , Test Name: V1 | Task 1 | Traditional | Product Grid | Add To Buttons Validation, DOM Id: , Browser: chrome, Viewport: 1200x777, Device: Laptop, Status: Fail
+

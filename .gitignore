@@ -1,0 +1,23 @@
+# Integrated Dev Env files
+.DS_Store
+
+# Logs
+*.log
+
+# Runtime data
+*.pid
+cucumber-results/
+build
+
+# Npm cache directory
+.npm
+
+# Dependency directories
+node_modules
+
+# Run-time test reports
+cucumber-results
+.tmp
+
+# Npm repo config
+.npmrc
